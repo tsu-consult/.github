@@ -15,7 +15,7 @@
 ## Репозитории
 - [tsu-consult-bot](https://github.com/your-org/tsu-consult-bot) — Telegram-бот на aiogram  
 - [tsu-consult-api](https://github.com/your-org/tsu-consult-api) — Django API  
-- [tsu-consult-web](https://github.com/your-org/tsu-consult-web) — Веб-клиент администратора  
+- [tsu-consult-web](https://github.com/your-org/tsu-consult-api) — Веб-клиент администратора  
 
 ## Технологии
 - Python >=3.12, aiogram, Django 4+  
